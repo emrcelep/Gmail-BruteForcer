@@ -1,7 +1,4 @@
 # GmailBruteForcer 🚀
-
-![GmailBruteForcer]
-
 **GmailBruteForcer**, Gmail SMTP üzerinden brute force saldırıları gerçekleştirmek için geliştirilmiş bir araçtır. Bu araç yalnızca eğitim ve güvenlik araştırmaları amacıyla kullanılmalıdır! ⚠️
 
 ## Özellikler 🌟
